@@ -1,4 +1,4 @@
-# Medical-Image-Processing-for-Brain-Tumor-Detection
+# Deep Learning based Medical Image Processing for Brain Tumor Detection
 
 A deep learning-powered system for accurate detection of brain tumors using medical image processing on MRI and CT scans. This project leverages Convolutional Neural Networks (CNNs) to assist in early diagnosis, potentially improving patient outcomes and saving lives.
 
